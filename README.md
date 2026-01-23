@@ -19,6 +19,8 @@ Heute habe ich nur an meinem Programm gearbeitet. Ich habe letztes Mal OOP repet
 
 # 23.1.2026
 
-- [ ] Taschenrechner implementieren
-- [ ] Ratespiel implementieren
-- [ ] Bewerbung abschicken
+- [x] Taschenrechner implementieren
+- [x] Ratespiel implementieren
+- [x] Bewerbung abschicken
+
+Heute habe ich mal wieder an meiner Applikation gearbeitet. Ich habe letztes Mal mit dem Taschenrechner angefangen, aber ich war nicht zufrieden mit dem Code, weshalb ich alles über den Haufen geworfen habe und den Taschenrechner neu programmiert habe. Der Code sieht jetzt etwas sauberer aus und man kann jetzt ohne Probleme zwischen Taschenrechner und der UI navigieren. In meinem alten Code habe ich nach fast jedem Schritt eine while-Schleife eingebaut. Jetzt bei meinem neuen Rechner gibt es nur eine einzige Schleife. Jetzt sieht mein Code sauberer aus und macht auch Sinn. Auch hatte ich noch Zeit, das Ratespiel einzubauen. Das war weniger schwer und einfacher als der Rechner. Danach habe ich noch eine Blindbewerbung abgeschickt. Das wäre es für heute. Nächstes Mal nehme ich Hangman in Angriff. 
