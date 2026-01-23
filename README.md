@@ -16,3 +16,9 @@ Heute ging es mehr darum, den Kopf aufzufrischen, denn es ist eine Weile her, da
 - [x] Ein Programm zum laufen bringen
 
 Heute habe ich nur an meinem Programm gearbeitet. Ich habe letztes Mal OOP repetiert und dieses Mal habe ich es umgesetzt. Diese Übung hat mir ziemlich viel Spass gemacht. Nun, ich bin noch nicht fertig. Bis jetzt ist es mir gelungen, die UI zu implementieren. Es gab ein paar kleine Verwirrungen, weil ich die breaks falsch angesetzt habe. Ich arbeite zurzeit mit sehr vielen Switch-Cases. Immerhin läuft mein Programm. Auch habe ich den Taschenrechner eingefügt. Nicht vollständig. Wollte austesten, ob ich den Taschenrechner öffnen kann. Bis jetzt gab es keine Probleme. Was ich mir als Ziel setzte, ist auch noch zu lernen, wie man Hangman programmiert. Ich habe es mal versucht und bin dabei gescheitert. Hoffentlich funktioniert es dieses Mal. 
+
+# 23.1.2026
+
+- [ ] Taschenrechner implementieren
+- [ ] Ratespiel implementieren
+- [ ] Bewerbung abschicken
