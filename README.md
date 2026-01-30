@@ -24,3 +24,12 @@ Heute habe ich nur an meinem Programm gearbeitet. Ich habe letztes Mal OOP repet
 - [x] Bewerbung abschicken
 
 Heute habe ich mal wieder an meiner Applikation gearbeitet. Ich habe letztes Mal mit dem Taschenrechner angefangen, aber ich war nicht zufrieden mit dem Code, weshalb ich alles über den Haufen geworfen habe und den Taschenrechner neu programmiert habe. Der Code sieht jetzt etwas sauberer aus und man kann jetzt ohne Probleme zwischen Taschenrechner und der UI navigieren. In meinem alten Code habe ich nach fast jedem Schritt eine while-Schleife eingebaut. Jetzt bei meinem neuen Rechner gibt es nur eine einzige Schleife. Jetzt sieht mein Code sauberer aus und macht auch Sinn. Auch hatte ich noch Zeit, das Ratespiel einzubauen. Das war weniger schwer und einfacher als der Rechner. Danach habe ich noch eine Blindbewerbung abgeschickt. Das wäre es für heute. Nächstes Mal nehme ich Hangman in Angriff. 
+
+# 30.1.2026
+
+- [x] LA_223_1005_DieL-BankProgramm
+- [x] LA_223_1010_DieL-BankProblem
+- [x] LA_223_1015_Transaktionen
+
+Heute habe ich mich entschieden, mich mit dem Modul 223 etwas mehr zu befassen. Ich fühle mich nicht gerade wohl darin, weshalb ich die Aufgaben repetiere. Musste ein paar Sachen auffrischen wie SQL-Commands etc. SQL macht eigentlich ziemlich grossen Spass. Auch musste ich noch in C# programmieren und das hat ein bisschen Zeit gekostet, aber ich habe die Datenbank zum Laufen gebracht. Auch habe ich ausgetestet, was passieren würde, wenn man mit inkonsistenten Daten arbeitet. Dieser Teil war um einiges schwerer, da ich es simulieren musste. Dabei musste ich drei Prozesse laufen lassen und musste aufpassen, dass ich die Reihenfolge nicht versäume. Bis jetzt hat alles gut funktioniert. In den Ferien werde ich weiter M223 repetieren. Und das wäre es mit der Lernperiode 13. 
+
